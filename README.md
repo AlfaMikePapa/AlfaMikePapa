@@ -2,5 +2,5 @@
 
 ### Links & Social media
 
-[Linkedin](https://www.linkedin.com/in/juho-nykanen-cs/)
-[CodeWars](https://www.codewars.com/users/Nyksy)
+[Linkedin](https://www.linkedin.com/in/aleksi-putkonen-4230761a6/)
+[Instagram](https://www.instagram.com/aleksiputkone/)
