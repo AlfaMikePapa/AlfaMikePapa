@@ -12,4 +12,4 @@ Knowledge in Java and Python
 
 [Linkedin](https://www.linkedin.com/in/aleksi-putkonen-4230761a6/)
 [Instagram](https://www.instagram.com/aleksiputkone/)
-[ItchIo](https://rykae.itch.io/btl)
+[Itch.Io](https://rykae.itch.io/btl)
