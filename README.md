@@ -4,9 +4,8 @@
 I am 21 years old Business Information Technology student from Finland Joensuu.
 I am currently working in JAMAplan Oy as Software specialist.
 
-### Knowledge
-I mainly use C++ and C#
-Knowledge in Java and Python
+### Skills
+C++, C#, Java, Python
 
 ### Links & Social media
 
