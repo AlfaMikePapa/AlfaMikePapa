@@ -2,7 +2,7 @@
 
 ### About me
 I am 21 years old Business Information Technology student from Finland Joensuu.
-I am currently working in JAMAplan Oy as Software specialist. I'm interested in games, especially in the development. And ofcource I am true petrolhead so cars are huge part of my life.
+I am currently working in JAMAplan Oy as Software specialist. I'm interested in games, especially in the development. And of cource I am true petrolhead so cars are huge part of my life.
 
 ### Skills
 C++, C#, Java, Python
