@@ -12,3 +12,4 @@ C++, C#, Java, Python
 [Linkedin](https://www.linkedin.com/in/aleksi-putkonen-4230761a6/)
 [Instagram](https://www.instagram.com/aleksiputkone/)
 [Itch.Io](https://rykae.itch.io/btl)
+[Reddit](https://www.reddit.com/user/RoleXeiXD)
