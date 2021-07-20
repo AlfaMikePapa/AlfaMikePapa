@@ -22,6 +22,7 @@ I am currently working in JAMAplan Oy as Software specialist. I'm interested in 
 <a href="https://steamcommunity.com/id/69696669669/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
 
+## Find our game here!
+<a href="https://rykae.itch.io/btl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
 
-[Find our game here!](https://rykae.itch.io/btl)
 
