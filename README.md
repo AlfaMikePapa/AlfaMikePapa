@@ -15,6 +15,6 @@ C++, C#, Java, Python
 <a href="https://github.com/AlfaMikePapa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
-#Find our game here!
+# Find our game here!
 [Beyond the Light](https://rykae.itch.io/btl)
 
