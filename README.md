@@ -15,6 +15,5 @@ C++, C#, Java, Python
 <a href="https://www.instagram.com/aleksiputkone/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.reddit.com/user/RoleXeiXD" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
-# Find our game here!
-[Beyond the Light](https://rykae.itch.io/btl)
+[Find our game here!](https://rykae.itch.io/btl)
 
