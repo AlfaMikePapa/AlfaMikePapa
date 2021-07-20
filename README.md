@@ -18,6 +18,7 @@ Studying Business Information Technology in Joensuu Finland. Working on OpenNX d
 <a href="https://www.reddit.com/user/RoleXeiXD" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://github.com/AlfaMikePapa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/69696669669/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
 Feel free to contact me anywhere! I am open for chat almost any time!
 
 
