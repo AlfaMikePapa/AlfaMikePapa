@@ -1,5 +1,5 @@
 ![20210717_101524000_iOS](https://user-images.githubusercontent.com/64532516/126114638-173689f7-cd6c-48cc-86ef-4d91669a0ec4.jpg)
-# Hello World!
+# Hi lads & lasses
 
 ### About me
 I am 21 years old Business Information Technology student from Finland Joensuu.
