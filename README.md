@@ -6,7 +6,12 @@ I am 21 years old Business Information Technology student from Finland Joensuu.
 I am currently working in JAMAplan Oy as Software specialist. I'm interested in games, especially in the development. And of cource I am true petrolhead so cars are huge part of my life.
 
 ### Skills
-C++, C#, Java, Python
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
+
 
 ### Links & Social media
 
