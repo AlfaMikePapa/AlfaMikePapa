@@ -13,7 +13,7 @@ C++, C#, Java, Python
 <a href="https://www.linkedin.com/in/aleksi-putkonen-4230761a6/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/AlfaMikePapa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/aleksiputkone/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.reddit.com/user/RoleXeiXD" target="_blank"><img alt="Github" src="https://aleen42.github.io/badges/src/reddit.svg"></a>
+<a href="https://www.reddit.com/user/RoleXeiXD" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
 # Find our game here!
 [Beyond the Light](https://rykae.itch.io/btl)
