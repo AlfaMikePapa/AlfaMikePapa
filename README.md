@@ -2,8 +2,7 @@
 # Hi lads & lasses
 
 ### About me
-I am 21 years old Business Information Technology student from Finland Joensuu.
-I am currently working in JAMAplan Oy as Software specialist. I'm interested in games, especially in the development. And of cource I am true petrolhead so cars are huge part of my life.
+Studying Business Information Technology in Joensuu Finland. Working on OpenNX development, Licensing and 3D modeling in JAMAplan Oy. Interested in many things, such as Game development, software development and entrepreneurship. My hobbies include powerlifting, fishing and cars. I would love to be etrepreneur in the near future and I'm working towards it hard.
 
 ### Skills
 <img alt="Github" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -14,6 +13,7 @@ I am currently working in JAMAplan Oy as Software specialist. I'm interested in 
 
 
 ### Links & Social media
+Feel free to contact me anywhere! I am open for chat almost any time!
 
 <a href="https://www.linkedin.com/in/aleksi-putkonen-4230761a6/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/aleksiputkone/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
