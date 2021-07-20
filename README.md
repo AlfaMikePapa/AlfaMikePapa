@@ -12,8 +12,9 @@ C++, C#, Java, Python
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksi-putkonen-4230761a6/)
 
-[Instagram](https://www.instagram.com/aleksiputkone/)
+<a href="https://github.com/AlfaMikePapa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
-[Itch.Io](https://rykae.itch.io/btl)
 
-[Reddit](https://www.reddit.com/user/RoleXeiXD)
+#Find our game here!
+[Beyond the Light](https://rykae.itch.io/btl)
+
