@@ -4,9 +4,6 @@
 ### About me
 Studying Business Information Technology in Joensuu Finland. Working on NX open development, Licensing and 3D modeling in JAMAplan Oy. Interested in many things, such as Game development, software development and entrepreneurship. My hobbies include powerlifting, fishing and cars. I would love to be etrepreneur in the near future and I'm working towards it hard.
 
-### What I do at JAMAplan?
-Most of my time goes towards customers, licensing, installation and database (Teamcenter) problems. NXOpen is an Application Programming Interface (API) that lets you write programs to customize or extend NX. So this is what I do when ever needed.
-
 ### Skills
 <img alt="Github" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <img alt="Github" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
