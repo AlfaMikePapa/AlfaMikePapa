@@ -10,8 +10,11 @@ Studying Business Information Technology in Joensuu Finland. Working in JAMAplan
 <img alt="Github" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <img alt="Github" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 
-### Software
+### Software + IDE
 <img alt="Github" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
+<img alt="Github" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white></a> 
+<img alt="Github" src=https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white></a> 
+<img alt="Github" src=https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white></a> 
 
 
 ### Links & Social media
