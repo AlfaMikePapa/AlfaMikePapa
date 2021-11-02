@@ -4,11 +4,13 @@
 ### About me
 Studying Business Information Technology in Joensuu Finland. Working in JAMAplan Oy. Interested in many things, such as Game development, software development and entrepreneurship. My hobbies include powerlifting, fishing and cars. I would love to be etrepreneur in the near future and I'm working towards it.
 
-### Skills
+### Languages
 <img alt="Github" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <img alt="Github" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <img alt="Github" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <img alt="Github" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+
+### Software
 <img alt="Github" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
 
 
