@@ -2,6 +2,8 @@
 # Hi lads & lasses
 
 ### About me
+This shit needs some updates.
+
 Studying Business Information Technology in Joensuu Finland. Working in JAMAplan Oy. Interested in many things, such as Game development, software development and entrepreneurship. My hobbies include powerlifting, fishing and cars. I would love to be etrepreneur in the near future and I'm working towards it.
 
 ### Languages
