@@ -1,10 +1,7 @@
-![20210717_101524000_iOS](https://user-images.githubusercontent.com/64532516/126114638-173689f7-cd6c-48cc-86ef-4d91669a0ec4.jpg)
-# Hi lads & lasses
+# Hi
 
 ### About me
-This shit needs some updates.
-
-Studying Business Information Technology in Joensuu Finland. Working in JAMAplan Oy. Interested in many things, such as Game development, software development and entrepreneurship. My hobbies include powerlifting, fishing and cars. I would love to be etrepreneur in the near future and I'm working towards it.
+Working in JAMAplan Oy. Interested in many things, such as Game development, software development and entrepreneurship. My hobbies include powerlifting, fishing and cars. I would love to be etrepreneur in the near future and I'm working towards it.
 
 ### Languages
 <img alt="Github" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
