@@ -1,7 +1,7 @@
 # Hi
 
 ### About me
-Working in JAMAplan Oy. Interested in many things, such as Game development, software development and entrepreneurship. My hobbies include powerlifting, fishing and cars. I would love to be etrepreneur in the near future and I'm working towards it.
+Working at Eviden Finland Oy. Interested in many things, such as Game development, software development and entrepreneurship. My hobbies include powerlifting and cars. I would love to be etrepreneur in the near future and I'm working towards it.
 
 ### Languages
 <img alt="Github" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -18,12 +18,12 @@ Working in JAMAplan Oy. Interested in many things, such as Game development, sof
 
 ### Links & Social media
 <a href="https://www.linkedin.com/in/aleksi-putkonen-4230761a6/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/aleksiputkone/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/aleksiputkonen/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/AlfaMikePapa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/69696669669/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
 Feel free to contact me anywhere! I am open for chat any time!
 
 
-## Find our game here!
+## Find our (shit) game here!
 <a href="https://rykae.itch.io/btl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
